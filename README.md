@@ -117,8 +117,6 @@ A vulnerability-management dashboard concept for organizing findings, severity l
 </td></tr>
 </table>
 
-> Replace every `#` link above with the matching repository URL after publishing each project.
-
 ---
 
 ## Certifications
