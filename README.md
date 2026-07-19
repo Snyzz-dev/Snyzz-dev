@@ -243,6 +243,5 @@ https://github.com/Snyzz-dev
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Clean code, modern design and secure software."*
 
 </div>
