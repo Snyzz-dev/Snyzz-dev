@@ -1,247 +1,172 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Leo Tillier Banner"/>
+<img src="./assets/banner.svg" width="100%" alt="Leo Tillier banner" />
 
-# 👋 Hi, I'm Leo Tillier
+<br />
 
-### Full-Stack Developer • Desktop Software Engineer • Cybersecurity Enthusiast
+<a href="https://snyzz-dev.github.io/leo-tillier/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:snyzzoff@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://fr.fiverr.com/s/BR5g98W"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+<a href="https://github.com/Snyzz-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-Building modern software with clean architecture, intuitive user experiences and secure development.
+<br /><br />
 
-<br>
-
-<p>
-<a href="https://snyzz-dev.github.io/leo-tillier/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-8B5CF6?style=for-the-badge">
-</a>
-
-<a href="https://fr.fiverr.com/s/BR5g98W">
-<img src="https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge">
-</a>
-
-<a href="mailto:snyzzoff@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge">
-</a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Desktop+Software+Developer;Cybersecurity+Enthusiast;Always+Building+Something+New."/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Desktop+Software+Developer;Cybersecurity+Enthusiast;Building+clean%2C+secure+and+modern+software" alt="Typing introduction" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About me
 
-I'm a French developer passionate about creating **modern web applications**, **Windows desktop software**, and **secure backend systems**.
+I am a French developer focused on building **modern web applications**, **Windows desktop software**, and **secure backend systems**.
 
-I enjoy designing software that is fast, clean, scalable, and easy to use.
+I care about clean architecture, thoughtful interfaces, performance, maintainability, and honest project documentation.
 
-### My main areas of expertise
-
-- 💻 Full-Stack Web Development
-- 🖥 Windows Desktop Applications
-- 🔐 Cybersecurity
-- ⚡ REST APIs
-- 🗄 Database Design
-- 🎨 Modern UI/UX
-- 🚀 Performance Optimization
+- Full-stack web development
+- Windows desktop applications
+- REST APIs and database design
+- Secure development practices
+- Modern and responsive user interfaces
+- Performance and code-quality improvements
 
 ---
 
-# 🛠 Tech Stack
+## Tech stack
 
-## Front-End
+<div align="center">
 
-<p>
+### Languages
+<img src="https://skillicons.dev/icons?i=js,cs,python,html,css" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+### Frameworks and runtime
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet" alt="Frameworks" />
 
-</p>
+### Data and tools
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,vscode,visualstudio" alt="Tools" />
 
-## Back-End
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,cs,dotnet"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 Certifications
+## Featured projects
+
+<table>
+<tr><td width="50%" valign="top">
+
+### NovaCRM
+<img src="./assets/projects/novacrm.svg" width="100%" alt="NovaCRM" />
+A modern customer relationship management platform designed around clear workflows, customer records and business visibility.
+
+**Stack:** Node.js, Express, MySQL, JavaScript
+
+[View repository](#)
+
+</td><td width="50%" valign="top">
+
+### CloudSync
+<img src="./assets/projects/cloudsync.svg" width="100%" alt="CloudSync" />
+A Windows desktop application concept for file organization, synchronization and local data management.
+
+**Stack:** C#, .NET, WPF, SQLite
+
+[View repository](#)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### HelpDesk Pro
+<img src="./assets/projects/helpdesk-pro.svg" width="100%" alt="HelpDesk Pro" />
+A support-ticket platform for managing requests, priorities, statuses and team workflows.
+
+**Stack:** Node.js, Express, MySQL
+
+[View repository](#)
+
+</td><td width="50%" valign="top">
+
+### SecureBank
+<img src="./assets/projects/securebank.svg" width="100%" alt="SecureBank" />
+A banking-dashboard concept focused on authentication, account visibility and secure user flows.
+
+**Stack:** Node.js, JWT, MySQL
+
+[View repository](#)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### Shopmaz
+<img src="./assets/projects/shopmaz.svg" width="100%" alt="Shopmaz" />
+A responsive e-commerce experience featuring products, cart flows and online-payment integration concepts.
+
+**Stack:** Express, Stripe, MySQL
+
+[View repository](#)
+
+</td><td width="50%" valign="top">
+
+### Security Audit Dashboard
+<img src="./assets/projects/security-audit.svg" width="100%" alt="Security Audit" />
+A vulnerability-management dashboard concept for organizing findings, severity levels and remediation progress.
+
+**Stack:** Python, Flask, SQLite
+
+[View repository](#)
+
+</td></tr>
+</table>
+
+> Replace every `#` link above with the matching repository URL after publishing each project.
+
+---
+
+## Certifications
 
 | Certification | Provider |
-|---------------|----------|
-| Introduction to Cybersecurity | Cisco |
-| Ethical Hacker | Cisco |
-| Networking Basics | Cisco |
-| Python Essentials | Cisco |
-| Cyber Threat Management | Cisco |
-| Network Defense | Cisco |
+|---|---|
+| Introduction to Cybersecurity | Cisco Networking Academy |
+| Ethical Hacker | Cisco Networking Academy |
+| Networking Basics | Cisco Networking Academy |
+| Python Essentials | Cisco Networking Academy |
+| Cyber Threat Management | Cisco Networking Academy |
+| Network Defense | Cisco Networking Academy |
 | SecNum Académie | ANSSI |
 
 ---
 
-# 🚀 Featured Projects
+## GitHub analytics
 
-## 🔹 NovaCRM
-
-Modern Customer Relationship Management platform.
-
-**Stack**
-
-Node.js • Express • MySQL • JavaScript
-
-➡ Repository
-
----
-
-## 🔹 HelpDesk Pro
-
-Professional Ticket Support System.
-
-**Stack**
-
-Node.js • Express • MySQL
-
-➡ Repository
+<div align="center">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Snyzz-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snyzz-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snyzz-dev&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Snyzz-dev&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+<br />
+<img src="https://komarev.com/ghpvc/?username=Snyzz-dev&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+</div>
 
 ---
 
-## 🔹 CloudSync
+## Contact
 
-Modern Windows Desktop File Manager.
+<div align="center">
 
-**Stack**
+**Portfolio:** [leo-tillier.fr](https://snyzz-dev.github.io/leo-tillier/)  
+**Email:** [snyzzoff@gmail.com](mailto:snyzzoff@gmail.com)  
+**Fiverr:** [View my freelance profile](https://fr.fiverr.com/s/BR5g98W)  
+**GitHub:** [Snyzz-dev](https://github.com/Snyzz-dev)
 
-C# • .NET • WPF • SQLite
-
-➡ Repository
-
----
-
-## 🔹 Security Audit Dashboard
-
-Cybersecurity Vulnerability Management.
-
-**Stack**
-
-Python • Flask • SQLite
-
-➡ Repository
-
----
-
-## 🔹 Shopmaz
-
-Modern E-Commerce Platform.
-
-**Stack**
-
-Node.js • Express • MySQL
-
-➡ Repository
-
----
-
-## 🔹 SecureBank
-
-Secure Online Banking Dashboard.
-
-**Stack**
-
-Node.js • JWT • MySQL
-
-➡ Repository
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Snyzz-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snyzz-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Snyzz-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Snyzz-dev&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Snyzz-dev&label=Profile+Views&color=8B5CF6&style=flat-square"/>
-
-</p>
-
----
-
-# 📬 Contact
-
-📧 **Email**
-
-**snyzzoff@gmail.com**
-
-🌐 **Portfolio**
-
-**[https://leo-tillier.f](https://snyzz-dev.github.io/leo-tillier/)r**
-
-💼 **Fiverr**
-
-https://fr.fiverr.com/s/BR5g98W
-
-💻 **GitHub**
-
-https://github.com/Snyzz-dev
-
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting.
 
+*Clean code. Modern design. Secure software.*
 
 </div>
