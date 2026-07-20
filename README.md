@@ -107,7 +107,7 @@ A responsive e-commerce experience featuring products, cart flows and online-pay
 </td><td width="50%" valign="top">
 
 ### Security Audit Dashboard
-<img src="./assets/projects/security-audit.svg" width="100%" alt="Security Audit" />
+<img src="./assets/projects/security-audit.png" width="100%" alt="Security Audit" />
 A vulnerability-management dashboard concept for organizing findings, severity levels and remediation progress.
 
 **Stack:** Python, Flask, SQLite
