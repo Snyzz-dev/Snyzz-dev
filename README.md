@@ -110,9 +110,9 @@ A responsive e-commerce experience featuring products, cart flows and online-pay
 <img src="./assets/projects/security-audit.png" width="100%" alt="Security Audit" />
 A vulnerability-management dashboard concept for organizing findings, severity levels and remediation progress.
 
-**Stack:** Python, Flask, SQLite
+**Stack:** Python, Flask, JavaScript, HTML, CSS and SQLite.
 
-[View repository](#)
+[View repository](https://github.com/Snyzz-dev/VulnWatch)
 
 </td></tr>
 </table>
