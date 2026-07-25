@@ -54,7 +54,7 @@ I care about clean architecture, thoughtful interfaces, performance, maintainabi
 <table>
 <tr><td width="50%" valign="top">
 
-### NovaCRM
+### NovaCRM - En cours
 <img src="./assets/projects/novacrm.svg" width="100%" alt="NovaCRM" />
 A modern customer relationship management platform designed around clear workflows, customer records and business visibility.
 
@@ -64,7 +64,7 @@ A modern customer relationship management platform designed around clear workflo
 
 </td><td width="50%" valign="top">
 
-### CloudSync
+### CloudSync - En cours
 <img src="./assets/projects/cloudsync.svg" width="100%" alt="CloudSync" />
 A Windows desktop application concept for file organization, synchronization and local data management.
 
@@ -75,7 +75,7 @@ A Windows desktop application concept for file organization, synchronization and
 </td></tr>
 <tr><td width="50%" valign="top">
 
-### HelpDesk Pro
+### HelpDesk Pro - En cours
 <img src="./assets/projects/helpdesk-pro.svg" width="100%" alt="HelpDesk Pro" />
 A support-ticket platform for managing requests, priorities, statuses and team workflows.
 
@@ -85,7 +85,7 @@ A support-ticket platform for managing requests, priorities, statuses and team w
 
 </td><td width="50%" valign="top">
 
-### SecureBank
+### SecureBank - En cours
 <img src="./assets/projects/securebank.svg" width="100%" alt="SecureBank" />
 A banking-dashboard concept focused on authentication, account visibility and secure user flows.
 
@@ -96,7 +96,7 @@ A banking-dashboard concept focused on authentication, account visibility and se
 </td></tr>
 <tr><td width="50%" valign="top">
 
-### Shopmaz
+### Shopmaz - En cours
 <img src="./assets/projects/shopmaz.svg" width="100%" alt="Shopmaz" />
 A responsive e-commerce experience featuring products, cart flows and online-payment integration concepts.
 
@@ -106,7 +106,7 @@ A responsive e-commerce experience featuring products, cart flows and online-pay
 
 </td><td width="50%" valign="top">
 
-### Security Audit Dashboard
+### Security Audit Dashboard - Complet
 <img src="./assets/projects/security-audit.png" width="100%" alt="Security Audit" />
 A vulnerability-management dashboard concept for organizing findings, severity levels and remediation progress.
 
