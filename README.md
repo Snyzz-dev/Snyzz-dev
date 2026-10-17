@@ -6,7 +6,6 @@
 
 <a href="https://snyzz-dev.github.io/leo-tillier/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:snyzzoff@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://fr.fiverr.com/s/BR5g98W"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
 <a href="https://github.com/Snyzz-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br /><br />
@@ -49,72 +48,7 @@ I care about clean architecture, thoughtful interfaces, performance, maintainabi
 
 ---
 
-## Featured projects
 
-<table>
-<tr><td width="50%" valign="top">
-
-### NovaCRM - En cours
-<img src="./assets/projects/novacrm.svg" width="100%" alt="NovaCRM" />
-A modern customer relationship management platform designed around clear workflows, customer records and business visibility.
-
-**Stack:** Node.js, Express, MySQL, JavaScript
-
-[View repository](#)
-
-</td><td width="50%" valign="top">
-
-### CloudSync - En cours
-<img src="./assets/projects/cloudsync.svg" width="100%" alt="CloudSync" />
-A Windows desktop application concept for file organization, synchronization and local data management.
-
-**Stack:** C#, .NET, WPF, SQLite
-
-[View repository](#)
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-### HelpDesk Pro - En cours
-<img src="./assets/projects/helpdesk-pro.svg" width="100%" alt="HelpDesk Pro" />
-A support-ticket platform for managing requests, priorities, statuses and team workflows.
-
-**Stack:** Node.js, Express, MySQL
-
-[View repository](#)
-
-</td><td width="50%" valign="top">
-
-### SecureBank - En cours
-<img src="./assets/projects/securebank.svg" width="100%" alt="SecureBank" />
-A banking-dashboard concept focused on authentication, account visibility and secure user flows.
-
-**Stack:** Node.js, JWT, MySQL
-
-[View repository](#)
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-### Shopmaz - En cours
-<img src="./assets/projects/shopmaz.svg" width="100%" alt="Shopmaz" />
-A responsive e-commerce experience featuring products, cart flows and online-payment integration concepts.
-
-**Stack:** Express, Stripe, MySQL
-
-[View repository](#)
-
-</td><td width="50%" valign="top">
-
-### Security Audit Dashboard - Complet
-<img src="./assets/projects/security-audit.png" width="100%" alt="Security Audit" />
-A vulnerability-management dashboard concept for organizing findings, severity levels and remediation progress.
-
-**Stack:** Python, Flask, JavaScript, HTML, CSS and SQLite.
-
-[View repository](https://github.com/Snyzz-dev/VulnWatch)
-
-</td></tr>
 </table>
 
 ---
@@ -154,7 +88,6 @@ A vulnerability-management dashboard concept for organizing findings, severity l
 
 **Portfolio:** [leo-tillier.fr](https://snyzz-dev.github.io/leo-tillier/)  
 **Email:** [snyzzoff@gmail.com](mailto:snyzzoff@gmail.com)  
-**Fiverr:** [View my freelance profile](https://fr.fiverr.com/s/BR5g98W)  
 **GitHub:** [Snyzz-dev](https://github.com/Snyzz-dev)
 
 </div>
